@@ -16,6 +16,7 @@ if the inputValue is greater than maxValue displays the error.
 ![Screenshot (31)](https://user-images.githubusercontent.com/114418446/199419678-6abe7784-58aa-4664-8b91-fcabdfa1d90d.png)
 
 Example-1
+maxValue=100 , inputvalue=50 , Observe Vertical Progress Bar
 ![Screenshot (32)](https://user-images.githubusercontent.com/114418446/199420007-cdd4d7a7-d949-4781-bf19-7aa7587716a7.png)
 
 Example-2
